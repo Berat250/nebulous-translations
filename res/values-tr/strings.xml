@@ -1388,7 +1388,7 @@ Oturum açmak istemiyorsanız, tek oyunculu modumuzu oynamaya devam edebilirsini
     <string name="You_are_already_friends_">Zaten Arkadaşsınız.</string>
     <string name="Account_must_be_1_day_old_to_send_mail_">Posta gönderebilmeniz için hesabınızın en az 1 günlük olması gerekmektedir.</string>
     <string name="Translator">Çevirmen</string>
-    <string name="SUCCESS">BAŞARI</string>
+    <string name="SUCCESS">BAŞARILI</string>
 
     <string-array name="control_modes">
         <item>"Normal"</item>
